@@ -3,7 +3,7 @@
 🖥️ Programadores Responsaveis: WezemTN#6646 / LEANDROTN#0101 / Mr.#8017
 
 Desenvolvida inteiramente no algoritmo dbd A Miku Bot com Apenas (9 meses 14 dias 2 horas) Já foi verificada e registrada pelo discord
-com licenciamento ativo pela plataforma, e reconhecimento nacional, em breve mundial A Miku Bot, vem comquistando varios servidores é usuários
+com licenciamento ativo pela plataforma, e reconhecimento nacional, em breve mundial A Miku Bot, vem conquistando varios servidores é usuários
 com sua variedade  de comandos divertidos e interativos.
 
 # Historia Da Miku Bot!
